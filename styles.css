@@ -1,0 +1,30 @@
+#MainMenu
+{
+    visibility: hidden;
+}
+
+
+.st-emotion-cache-1wbqy5l
+{
+    visibility: hidden;
+}
+
+
+st-emotion-cache-12h5x7g:hover
+{
+color:white
+}
+button:hover
+{
+    border-style: solid;
+    border-color: red;
+}
+
+
+div.st-emotion-cache-1rsyhoq 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px
+}
